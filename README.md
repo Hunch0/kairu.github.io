@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Personal portfolio
 #### A brief description of my life achievements, 8th February 2019
 #### By Philip Kairu Njoroge

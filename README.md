@@ -3,7 +3,8 @@
 #### By Philip Kairu Njoroge
 ## Description
 My portfolio comprises of a simple website that displays personal accomplishments in a chronological order. Interested employers may review it before making a decision to hire
-
+## Live demo
+A demonstration of how the site works can be found at: https://hunch0.github.io/kairu.github.io/
 ## Support and contact details
 For clarification on matters pertaining the website, kindly contact the author on philkairu01@gmail.com .
 =======

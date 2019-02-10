@@ -14,3 +14,19 @@
   padding: 8px;
   background-color: #dddddd;
 }
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+.accomplishments{
+  text-align: justify;
+  color: indigo;
+}
+img{
+  width: 600px;
+  height: 300px;
+}
+.hobbies{
+  text-align: left;
+  color: blue;
+}
